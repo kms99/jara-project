@@ -1,0 +1,144 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/1856/304/808/2/w/613/1856304808_1_1_1.jpg?ts=1691152934480",
+            "title":"체인 펄 네크리스 세트",
+            "price":35900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":1,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/3991/100/303/17/w/371/3991100303_1_1_1.jpg?ts=1690213127440",
+            "title":"슬림핏 맘 하이웨이스트 앵클 진",
+            "price":57900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":2,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/2731/310/806/2/w/371/2731310806_6_1_1.jpg?ts=1691062277255",
+            "title":"숏 슬리브 블레이저",
+            "price":89900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":3,
+            "img":"https://static.zara.net/photos///2023/I/1/1/p/6006/210/800/2/w/371/6006210800_15_1_1.jpg?ts=1689696625559",
+            "title":"크로스 백",
+            "price":55900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":4,
+            "img":"https://static.zara.net/photos///2023/I/1/1/p/1511/210/800/2/w/468/1511210800_15_2_1.jpg?ts=1689694239819",
+            "title":"레더 플랫 스트랩 샌들",
+            "price":89900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":5,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/3067/504/800/2/w/613/3067504800_2_1_1.jpg?ts=1691075805376",
+            "title":"벨티드 미디 스커트",
+            "price":59900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":6,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/3991/056/746/12/w/316/3991056746_1_1_1.jpg?ts=1687958520760",
+            "title":"리본 콤비 니트 탑",
+            "price":55900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":7,
+            "img":"https://static.zara.net/photos///2023/I/1/1/p/5802/110/800/2/w/371/5802110800_15_1_1.jpg?ts=1686130860556",
+            "title":"스포츠 발레리나 플랫슈즈",
+            "price":59900,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":8,
+            "img":"https://static.zara.net/photos///2023/V/0/1/p/4424/014/822/2/w/371/4424014822_2_3_1.jpg?ts=1678377506788",
+            "title":"위시드 코든 티셔츠",
+            "price":17900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":9,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/4043/256/802/2/w/301/4043256802_2_3_1.jpg?ts=1689765024346",
+            "title":"리넨 파레오 스커트",
+            "price":59900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":10,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/8076/807/044/2/w/371/8076807044_1_1_1.jpg?ts=1689696942914",
+            "title":"주얼리 버튼 스트라이프 셔츠",
+            "price":55900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":11,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/2187/240/075/2/w/371/2187240075_2_1_1.jpg?ts=1688486453248",
+            "title":"리넨 블렌드 스트라이프 셔츠",
+            "price":59900,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":12,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/4437/246/800/2/w/371/4437246800_2_2_1.jpg?ts=1688725170672",
+            "title":"볼륨 미디 스커트",
+            "price":89900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":13,
+            "img":"https://static.zara.net/photos///2023/I/0/1/p/4424/159/800/13/w/371/4424159800_1_1_1.jpg?ts=1689600899705",
+            "title":"엘라스틱 크롭 티셔츠",
+            "price":14900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        }
+    ]
+}
